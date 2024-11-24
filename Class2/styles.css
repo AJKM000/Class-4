@@ -1,0 +1,24 @@
+p {
+  size: 14px;
+  color: darkblue;
+}
+
+h2 {
+  size: 24px;
+  color: forestgreen;
+}
+
+.highlight {
+  background-color: lightyellow;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#main-heading {
+  color: purple;
+  border-bottom: 5px solid black;
+}
+
+h2.highlight {
+  color: teal;
+}
